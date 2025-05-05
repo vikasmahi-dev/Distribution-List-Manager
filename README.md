@@ -32,3 +32,15 @@ Quick Start
 
 All operations and errors are logged to:
 DL_Operations_YYYYMMDD-HHMMSS.log
+
+---
+
+👨‍💻 Author
+
+Vikas Mahi – Infrastructure Architect & Technical Lead | AWS • Azure • VMware • Automation
+
+---
+
+📜 License
+
+MIT © Vikas Mahi
